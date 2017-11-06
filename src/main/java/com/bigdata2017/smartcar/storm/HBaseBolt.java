@@ -70,7 +70,6 @@ public class HBaseBolt implements IRichBolt {
 		} catch (IOException ex) {
 			throw new RuntimeException(ex);
 		}
-
 	}
 
 	@Override
