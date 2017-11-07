@@ -18,7 +18,6 @@ import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
 
 public class EsperBolt extends BaseBasicBolt {
-	
 	private static final long serialVersionUID = 1L;
 	
 	private static final int MAX_SPEED = 30;
